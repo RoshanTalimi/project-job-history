@@ -1,4 +1,4 @@
-# job-history
+# Jobtech listings history
 
 Historiska jobb är ett dataset med alla jobbannonser som har publicerats på Arbetsförmedlingens Platsbanken sedan 2006
 
